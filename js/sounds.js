@@ -34,6 +34,7 @@ export default function () {
     rainSound.pause()
     cafeSound.pause()
     fireSound.pause()
+
     RainValueRange.value = 0
     CafeValueRange.value = 0
     FireValueRange.value = 0
